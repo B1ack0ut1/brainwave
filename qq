@@ -1,0 +1,47 @@
+[33mcommit 385df0748400613b25a258e1dbfe7e9dce1c8b75[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Tue Mar 5 12:56:40 2024 +0800
+
+    Worked on Hero and CompanyLogos component
+
+[33mcommit 4a827aee5fdbbcb4202bfa3744289ccb2baaf090[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Mon Mar 4 00:02:46 2024 +0800
+
+    Worked on Hero and Notification components
+
+[33mcommit 48fd6b508214a95d69b08636a16f1ffd42f4dfa0[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Sun Mar 3 23:48:32 2024 +0800
+
+    Worked on Hero and Generating components
+
+[33mcommit cebec90924387404bc0f0aa1ac3a8a2dc37e86f6[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Fri Mar 1 23:13:58 2024 +0800
+
+    Worked on Header and Section components, added react-just-parallax package
+
+[33mcommit 29f0df0e4cf3b972c25700ea48c1f1508783c92f[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Fri Mar 1 22:24:52 2024 +0800
+
+    Worked on Header and Section component and made a change to eslintrc
+
+[33mcommit 03159132b4609dec243f6e92f597c4c075d78c38[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Fri Mar 1 22:00:33 2024 +0800
+
+    Worked on Button and Header component and added scroll-lock package
+
+[33mcommit d54d8857523de512bd1a40d51e3f582b01fd6196[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Fri Mar 1 20:57:55 2024 +0800
+
+    Worked on Button component
+
+[33mcommit b7cd192d0af2ab73695712d32f3271fa3fca575a[m
+Author: B1ack0ut1 <42845068+B1ack0ut1@users.noreply.github.com>
+Date:   Fri Mar 1 20:44:23 2024 +0800
+
+    Tailwindcss with vite react and installed react router dom
